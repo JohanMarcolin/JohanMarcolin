@@ -1,4 +1,5 @@
 ### Hi there, I'm Johan 👋
 - Fullstack-developer student
 - Bachelor of medical science
-- Currently building a graded fullstack application with react and MongoDB
+- Currently working a Junior Fullstack Developer (Internship) at [LongLife Active](https://lnkd.in/dfwc6a8U)
+
