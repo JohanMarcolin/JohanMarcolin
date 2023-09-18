@@ -1,5 +1,5 @@
 ### Hi there, I'm Johan 👋
-- Last year fullstack-developer student
+- Final year fullstack-developer student
 - Bachelor of medical science
 - Currently studying Java (object-oriented analysis and design) & Vue 3 (Composition API)
 
