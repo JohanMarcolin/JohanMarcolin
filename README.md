@@ -1,7 +1,6 @@
 ## Hi there, I'm Johan 👋
 - Newly graduated full-stack developer
-- Junior marketing automation developer [@Boozt/Booztlet](https://www.linkedin.com/company/boozt-fashion)
-- Currently learning about C# & .NET
+- Currently learning about AWS Lambda
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfMoller&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMarcolin&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
